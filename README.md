@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/souza-psi-dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souza-psi-dev&show_icons=true&theme=radical"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souza-osi-dev&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souza-psi-dev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
